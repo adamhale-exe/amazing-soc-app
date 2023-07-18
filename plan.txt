@@ -1,0 +1,21 @@
+create a web application using html, css and javascript dedicated to someone or something super amazing
+
+subject matter: Pyramids
+
+title - Pyramids are amazing
+    html
+    heading (h1)
+    small paragraph
+    image
+    buttons!
+
+    css
+    background color
+    text color
+    button formatting
+    imagine padding
+    text align
+
+    js
+    for alert, make the buttons do something
+    
